@@ -63,9 +63,6 @@ Open your web browser and navigate to http://localhost:8000 to view the applicat
 ## Usage
 -----
 
-### Register and Login:
-Create an account or use existing credentials.
-
 ### Manage Books:
 Add, view, edit, and delete books.
 
