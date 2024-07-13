@@ -36,26 +36,25 @@ Server-side scripting language.
 To run this project locally, follow these steps:
 
 ### 1. Clone Repository:
-    ```bash
        git clone https://github.com/Rajputvipul1/book-manager.git
+
 ### 2. Navigate to Project Directory:
-    ```bash
        cd book-manager
+
 ### 3. Install Dependencies:
-    ```bash
        composer install
+
 ### 4. Set Up Environment Variables:
-    ```bash
        cp.env.example.env
 Update `.env` file with your database credentials.
+
 ### 5. Generate Application Key:
-    ```bash
        php artisan key:generate
+
 ### 6. Run Database Migrations:
-    ```bash
        php artisan migrate
+
 ### 7. Start Laravel Development Server:
-    ```bash
        php artisan serve
 
 ### 8. Access Application:
@@ -72,23 +71,6 @@ Add, view, edit, and delete books.
 
 ### Responsive Design:
 Access the application from any device.
-
-## Contributing
---------------
-
-Contributions are welcome! Feel free to fork this repository, make changes, and submit pull requests.
-
-## License
----------
-
-This project is open-sourced software licensed under the MIT license.
-
-## Acknowledgments
-----------------
-
-### Laravel Community and Documentation
-### Bootstrap Team
-### Open-source Contributors
 
 ## Contact
 ---------
